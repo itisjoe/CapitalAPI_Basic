@@ -1,6 +1,6 @@
 # 群益 API 基礎應用
 
-## 使用 C Sharp 建立一個 Windows Form App
+### 使用 C Sharp 建立一個 Windows Form App
 
 API 版本： 2.13.17  [群益 API 下載頁面](https://www.capital.com.tw/Service2/download/API.asp)
 
